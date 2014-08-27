@@ -27,7 +27,7 @@ This is a collection of topics for the [Austin Haskell Users Group](http://www.m
 * Typeclassopedia
 * Contravariant functors
   * Profunctor / Bifunctor
-* Foldable 
+* Foldable
 * Traversable
 * Lenses
 * Comonads
@@ -36,7 +36,8 @@ This is a collection of topics for the [Austin Haskell Users Group](http://www.m
 * Pipes
 * QuickCheck
 * GHC rewrite rules
-* Performance 
+* Performance
   * Unpacking, strictness, inlining, etc.
   * Core
   * Tooling
+* Template Haskell
