@@ -41,3 +41,5 @@ This is a collection of topics for the [Austin Haskell Users Group](http://www.m
   * Core
   * Tooling
 * Template Haskell
+* GHCJS
+* 24 days of Hackage
